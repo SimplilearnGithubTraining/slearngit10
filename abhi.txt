@@ -1,2 +1,4 @@
 Welcome to Git and Github Training!!
 From Abhresh Sugandhi!!
+Powered by Simplilearn!!
+40% work was done and now added remaining 60% work
